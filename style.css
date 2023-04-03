@@ -1,0 +1,192 @@
+body{
+    background: rgb(209, 209, 209);
+}
+
+h2 {
+    font-size: 72px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color : green;
+}
+
+li {
+    display: list-item;
+    text-decoration: none;
+}
+
+.finito{
+    border-radius: 50%;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+li a {
+    text-decoration: none;
+    font-family: "Prompt", sans-serif;
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+p{
+    font-size: 40px;
+}
+
+button{
+    size: 40px;
+}
+
+.parent {
+    text-align: center;
+    width: 700px; 
+    margin: 40px auto; 
+}
+
+.Name{
+    text-align: center;
+    width: 500px;
+    height: auto;
+    display: inline-block;
+    background-color:white;
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+    -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+    box-shadow:0px 0px 80px 0px #9e9e9e ;
+}
+
+.Ecole{
+    text-align: center;
+    width: 500px;
+    height: auto;
+    display: inline-block;
+    background-color:rgb(255, 217, 0);
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+    -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+    box-shadow:0px 0px 80px 0px #9e9e9e ;
+}
+
+.socials{
+    text-align: center;
+    width: 500px;
+    height: auto;
+    display: inline-block;
+    background-color:rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+    -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+    box-shadow:0px 0px 80px 0px #9e9e9e ;
+}
+
+@media (max-width: 1280px) {
+
+    .parent {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .Name {
+        width: 200px;
+        height: auto;
+        display: inline-block;
+        background-color:white;
+        border-radius: 10px;
+        margin-left: 2%;
+        margin-right: 2%;
+        -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        box-shadow:0px 0px 80px 0px #9e9e9e ;
+    }
+
+    .Ecole {
+        width: 200px;
+        height: auto;
+        display: inline-block;
+        background-color:white;
+        border-radius: 10px;
+        margin-left: 2%;
+        margin-right: 2%;
+        -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        box-shadow:0px 0px 80px 0px #9e9e9e ;
+    }
+
+    .socials {
+        width: 200px;
+        height: auto;
+        display: inline-block;
+        background-color:white;
+        border-radius: 10px;
+        margin-left: 2%;
+        margin-right: 2%;
+        -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        box-shadow:0px 0px 80px 0px #9e9e9e ;
+    }
+
+
+    .parent {
+        width: auto;
+        text-align: center;
+    }
+    
+    .Name {
+        width: auto;
+        height: auto;
+        display: inline-block;
+        background-color:white;
+        border-radius: 10px;
+        margin-left: 2%;
+        margin-right: 2%;
+        -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        box-shadow:0px 0px 80px 0px #9e9e9e ;
+    }
+        
+    .Ecole {
+        width: auto;
+        height: auto;
+        display: inline-block;
+        background-color:white;
+        border-radius: 10px;
+        margin-left: 2%;
+        margin-right: 2%;
+        -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        box-shadow:0px 0px 80px 0px #9e9e9e ;
+    }
+        
+    .socials {
+        width: auto;
+        height: auto;
+        display: inline-block;
+        background-color:white;
+        border-radius: 10px;
+        margin-left: 2%;
+        margin-right: 2%;
+        -webkit-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        -moz-box-shadow:0px 0px 80px 0px #9e9e9e ;
+        box-shadow:0px 0px 80px 0px #9e9e9e ;
+    }
+
+
+}
